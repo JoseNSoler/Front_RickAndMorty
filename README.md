@@ -11,6 +11,14 @@
 </p>
 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59320487/160403307-5365fe36-54aa-4e3b-aa76-5f1a05ee2ec8.png">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/59320487/160403428-fde91f6e-6e76-431b-8c00-3a1d7b57701c.png">
+</p>
+
 
 ## Video explicativo
 
