@@ -2,7 +2,7 @@
   "name": "async",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://JoseNSoler.github.io/Front_RickAndMorty/",
+  "homepage": "https://JoseNSoler.github.io/Front_RickAndMorty/home",
   "devDependencies": {
     "react-scripts": "^4.0.3"
   },
