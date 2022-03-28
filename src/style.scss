@@ -1,0 +1,82 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+$backgroundCard: "https://user-images.githubusercontent.com/59320487/160395179-d13b9309-eeef-4cba-815e-eb62c4a038a7.jpg";
+
+body{
+    margin: 0;
+    background-color: #185f2a86;
+}
+
+.main{
+    display: flex;
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+    height: auto;
+
+    flex-direction: column;
+
+}
+
+
+.perNavBar{
+    padding-left: 5%;
+
+    
+}
+
+
+.sectionNav{
+    background-color: rgba(127, 255, 212, 0.445);
+}
+
+
+.resultCont{
+
+    background-color: rgba(14, 116, 116, 0.493);
+
+}
+
+.selection{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.NumberPages{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    padding: 1%;
+    background-color: cadetblue;
+}
+
+.ContImgCard{
+    height: 291px;
+    padding-left: 34px;
+    padding-top: 78px;
+}
+
+.backCard{
+    background-image: url($backgroundCard);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.imgCard{
+    width: 215px;
+}
+
+
+
+.cardTitle{
+    font-size: larger;
+    font-style: none;
+    text-decoration:none;
+    align-self: center;
+    text-justify:distribute;
+}
+
+
+.cardFav{
+    width: 100%;
+}
