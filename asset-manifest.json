@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Front_RickAndMorty/home/static/css/main.cfb55876.chunk.css",
-    "main.js": "/Front_RickAndMorty/home/static/js/main.437679f5.chunk.js",
-    "main.js.map": "/Front_RickAndMorty/home/static/js/main.437679f5.chunk.js.map",
-    "runtime-main.js": "/Front_RickAndMorty/home/static/js/runtime-main.13808c17.js",
-    "runtime-main.js.map": "/Front_RickAndMorty/home/static/js/runtime-main.13808c17.js.map",
-    "static/js/2.7044821b.chunk.js": "/Front_RickAndMorty/home/static/js/2.7044821b.chunk.js",
-    "static/js/2.7044821b.chunk.js.map": "/Front_RickAndMorty/home/static/js/2.7044821b.chunk.js.map",
-    "index.html": "/Front_RickAndMorty/home/index.html",
-    "static/css/main.cfb55876.chunk.css.map": "/Front_RickAndMorty/home/static/css/main.cfb55876.chunk.css.map",
-    "static/js/2.7044821b.chunk.js.LICENSE.txt": "/Front_RickAndMorty/home/static/js/2.7044821b.chunk.js.LICENSE.txt"
+    "main.css": "/Front_RickAndMorty/homebuild/static/css/main.cfb55876.chunk.css",
+    "main.js": "/Front_RickAndMorty/homebuild/static/js/main.437679f5.chunk.js",
+    "main.js.map": "/Front_RickAndMorty/homebuild/static/js/main.437679f5.chunk.js.map",
+    "runtime-main.js": "/Front_RickAndMorty/homebuild/static/js/runtime-main.5b9dc6d1.js",
+    "runtime-main.js.map": "/Front_RickAndMorty/homebuild/static/js/runtime-main.5b9dc6d1.js.map",
+    "static/js/2.7044821b.chunk.js": "/Front_RickAndMorty/homebuild/static/js/2.7044821b.chunk.js",
+    "static/js/2.7044821b.chunk.js.map": "/Front_RickAndMorty/homebuild/static/js/2.7044821b.chunk.js.map",
+    "index.html": "/Front_RickAndMorty/homebuild/index.html",
+    "static/css/main.cfb55876.chunk.css.map": "/Front_RickAndMorty/homebuild/static/css/main.cfb55876.chunk.css.map",
+    "static/js/2.7044821b.chunk.js.LICENSE.txt": "/Front_RickAndMorty/homebuild/static/js/2.7044821b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13808c17.js",
+    "static/js/runtime-main.5b9dc6d1.js",
     "static/js/2.7044821b.chunk.js",
     "static/css/main.cfb55876.chunk.css",
     "static/js/main.437679f5.chunk.js"
