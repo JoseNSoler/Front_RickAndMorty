@@ -5,6 +5,11 @@
 <img src="https://www.sofka.com.co/wp-content/uploads/2021/02/sofkau-logo-horizontal.png">
 </p>
 
+## VIDEO
+
+https://www.youtube.com/watch?v=eMjqnGcMZEo
+
+video con un breve recorrido mostrando el funcionamiento
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59320487/160401515-545549f2-3001-4982-8341-f349336debb5.png">
