@@ -92,7 +92,7 @@ const Section = (props) => {
         
         props.dispatch(characterInfo(item, props.data))
 
-        navigate("/character", { replace: true });
+        navigate("/Front_RickAndMorty/character", { replace: true });
     }
 
 
@@ -112,7 +112,7 @@ const Section = (props) => {
                                     {item.gender} -
                                     {item.species}
                                 </Card.Text>
-                                <Button style={{margin:'0 0 0 2.2rem'}} variant="primary" href="/character" onClick={(e) => sendCharacter(e, item)} >Agregar Favorito</Button>
+                                <Button style={{margin:'0 0 0 2.2rem'}} variant="primary" href="/Front_RickAndMorty/character" onClick={(e) => sendCharacter(e, item)} >Agregar Favorito</Button>
                             </Card.Body>
                         </Card>
 

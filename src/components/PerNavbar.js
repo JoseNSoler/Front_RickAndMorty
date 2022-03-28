@@ -7,15 +7,15 @@ const PerNavbar = (props) => {
     return (
         <Navbar collapseOnSelect expand="md" bg="dark" variant="dark">
             <Container >
-                <Navbar.Brand href="/home">I'm a Pickle Mortyyy</Navbar.Brand>
+                <Navbar.Brand href="/Front_RickAndMorty/home">I'm a Pickle Mortyyy</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav" className='perNavBar'>
                     <Nav className="me-auto">
-                        <Nav.Link href="/all">Universo</Nav.Link>
-                        <Nav.Link href="/otro">Ricker</Nav.Link>
+                        <Nav.Link href="/Front_RickAndMorty/all">Universo</Nav.Link>
+                        <Nav.Link href="/Front_RickAndMorty/otro">Ricker</Nav.Link>
                     </Nav>
                     <Nav>
-                        <Nav.Link eventKey={2} href="/favorites">
+                        <Nav.Link eventKey={2} href="/Front_RickAndMorty/favorites">
                             Cuenta
                         </Nav.Link>
                     </Nav>

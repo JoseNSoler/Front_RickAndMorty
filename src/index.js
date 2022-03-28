@@ -63,10 +63,10 @@ ReactDOM.render(
     <PersistGate loading={null} persistor={persistor3}>
       <PerNavbar/>
       <Routes>
-        <Route path="/" element={<><h1>BIENVENIDO, PORFAVOR DELE CLICK EN UNIVERSO PARA TRAER TODOS LOS PERSONAJES, O CUENTA PARA VER LOS GUARDADOS</h1></>}/>
-        <Route path="/all" element={<><App/></>}/>
-        <Route path="/character" element={<><Character /></>}/>
-        <Route path="/favorites" element={<><Favorites /></>}/>
+        <Route path="/Front_RickAndMorty/home" exact element={<><h1>BIENVENIDO, PORFAVOR DELE CLICK EN UNIVERSO PARA TRAER TODOS LOS PERSONAJES, O</h1></>}/>
+        <Route path="/Front_RickAndMorty/all" exact element={<><App/></>}/>
+        <Route path="/Front_RickAndMorty/character" exact element={<><Character/></>}/>
+        <Route path="/Front_RickAndMorty/favorites" exact  element={<><Favorites/></>}/>
         
       </Routes>
       </PersistGate>

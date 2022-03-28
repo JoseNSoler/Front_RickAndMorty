@@ -7,10 +7,15 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom"
 
 import Section from '../components/Section'
 
+import { createHashHistory } from 'history';
+
+
+
 class App extends Component {// component stateful
+  
   render() {
     return (<>
-          <Section />
+          <Section/>
     </>)
   }
 }
