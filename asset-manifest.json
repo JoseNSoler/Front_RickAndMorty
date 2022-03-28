@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfb55876.chunk.css",
-    "main.js": "/static/js/main.199ef860.chunk.js",
-    "main.js.map": "/static/js/main.199ef860.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8b7ab90f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8b7ab90f.js.map",
-    "static/js/2.7044821b.chunk.js": "/static/js/2.7044821b.chunk.js",
-    "static/js/2.7044821b.chunk.js.map": "/static/js/2.7044821b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cfb55876.chunk.css.map": "/static/css/main.cfb55876.chunk.css.map",
-    "static/js/2.7044821b.chunk.js.LICENSE.txt": "/static/js/2.7044821b.chunk.js.LICENSE.txt"
+    "main.css": "/Front_RickAndMorty/static/css/main.cfb55876.chunk.css",
+    "main.js": "/Front_RickAndMorty/static/js/main.199ef860.chunk.js",
+    "main.js.map": "/Front_RickAndMorty/static/js/main.199ef860.chunk.js.map",
+    "runtime-main.js": "/Front_RickAndMorty/static/js/runtime-main.4c0d78d6.js",
+    "runtime-main.js.map": "/Front_RickAndMorty/static/js/runtime-main.4c0d78d6.js.map",
+    "static/js/2.7044821b.chunk.js": "/Front_RickAndMorty/static/js/2.7044821b.chunk.js",
+    "static/js/2.7044821b.chunk.js.map": "/Front_RickAndMorty/static/js/2.7044821b.chunk.js.map",
+    "index.html": "/Front_RickAndMorty/index.html",
+    "static/css/main.cfb55876.chunk.css.map": "/Front_RickAndMorty/static/css/main.cfb55876.chunk.css.map",
+    "static/js/2.7044821b.chunk.js.LICENSE.txt": "/Front_RickAndMorty/static/js/2.7044821b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b7ab90f.js",
+    "static/js/runtime-main.4c0d78d6.js",
     "static/js/2.7044821b.chunk.js",
     "static/css/main.cfb55876.chunk.css",
     "static/js/main.199ef860.chunk.js"
